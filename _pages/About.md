@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Currently, I am a PhD student under [Ewa Szczurek](https://www.mimuw.edu.pl/~szczurek/) at University of Warsaw. 
+Currently, I am a PhD student under [Ewa Szczurek](https://www.helmholtz-munich.de/en/aih/pi/ewa-szczurek) at Helmholtz Munich, previously University of Warsaw. 
 
 My main focus is to make generative models and large language models useful for molecule and peptide generation. However, I am excited about solving important biological problems with the use of artificial intelligence, e.g. with the use of scRNAseq data, in general.  
 
